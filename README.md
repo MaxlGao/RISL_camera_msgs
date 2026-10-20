@@ -1,3 +1,3 @@
-# Helper ROS2 Package for `max_camera_localizer`
+# Helper ROS2 Package for `risl_camera_localizer`
 
-See [this repository](https://github.com/MaxlGao/max_camera_localizer).
+See [this repository](https://github.com/MaxlGao/risl_camera_localizer).

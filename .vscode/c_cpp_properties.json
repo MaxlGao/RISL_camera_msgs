@@ -8,7 +8,7 @@
       "includePath": [
         "/home/max/ros2_ws/install/orbbec_camera/include/**",
         "/home/max/ros2_ws/install/orbbec_camera_msgs/include/**",
-        "/home/max/ros2_ws/install/max_camera_msgs/include/**",
+        "/home/max/ros2_ws/install/risl_camera_msgs/include/**",
         "/home/max/ros2_ws/install/image_geometry/include/**",
         "/home/max/ros2_ws/install/cv_bridge/include/**",
         "/opt/ros/humble/include/**",
